@@ -1,9 +1,9 @@
 #include <stdio.h>
-
+//version2
 
 #define linked_list 0
-#define stack       0
-#define queue       1
+#define stack       1
+#define queue       0
 
 #if queue == 1
 
